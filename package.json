@@ -1,0 +1,23 @@
+{
+  "name": "koa-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "koa": "2.5.3",
+    "koa-better-body": "3.0.4",
+    "koa-convert": "1.2.0",
+    "koa-csrf": "3.0.6",
+    "koa-generic-session": "2.0.1",
+    "koa-router": "7.4.0",
+    "koa-static": "5.0.0",
+    "logfilestream": "1.1.0",
+    "uuid": "3.3.2"
+  }
+}
